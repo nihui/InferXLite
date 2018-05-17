@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\app.o
+./debug\hash.o
+./debug\inferxlite.o
+./debug\interface.o
+./debug\metafmt.o
+./debug\pipe.o
+./debug\backend.o
+./debug\backend_impl.o
+./debug\JDminiYOLOv2.o
+./debug\MOBILENETV2.o
+./debug\model_init.o
+./debug\ShipSSD.o
+./debug\SqueezeNet.o
+./debug\YOLOtiny.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\app.o
+./release\hash.o
+./release\inferxlite.o
+./release\interface.o
+./release\metafmt.o
+./release\pipe.o
+./release\backend.o
+./release\backend_impl.o
+./release\JDminiYOLOv2.o
+./release\MOBILENETV2.o
+./release\model_init.o
+./release\ShipSSD.o
+./release\SqueezeNet.o
+./release\YOLOtiny.o
+);
